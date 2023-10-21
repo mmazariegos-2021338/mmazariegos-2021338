@@ -25,9 +25,8 @@ const marvin = {
       frontEnd: ["React.js", "Next.js", "Sass", "TailwindCSS", "Redux Toolkit", "MaterialUI", "Angular"],
       backEnd: ["Node.js", "Express", "Ruby on Rails", "Django REST Framework"],
       databases: ["MongoDB", "PostgreSQL", "MySQL"],
-      testing: ["Jest", "React Testing Library", "Cypress", "Playwright"],
-      devOps: ["AWS", "Route53", "S3", "Vercel", "Surge", "Docker", "Jenkins"],
-      videogames: ["Unity","C#"],
+      testing: [ "React Testing Library"],
+      devOps: ["AWS", "Route53",  "Vercel"],
   }
 }
 ```
