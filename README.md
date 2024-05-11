@@ -2,7 +2,7 @@
 
 💻 Developer Fuctional - GUATEMALA.
 
-👨‍💻 Frontend Developer  | React.js, JavaScript,  HTML5 and CSS3.
+👨‍💻 Full Stack Web  Developer  | React.js, JavaScript,  HTML5 and CSS3.
 
 📚 About me...
 
